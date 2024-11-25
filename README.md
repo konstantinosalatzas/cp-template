@@ -1,3 +1,3 @@
 # Competitive Programming template
 
-My C++ Competitive Programming template
+My C++ CP template
