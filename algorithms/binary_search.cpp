@@ -30,5 +30,5 @@ int main()
     cout<<k<<'\n';
     binary_search();
     cout<<l<<' '<<r<<'\n';
-	return 0;
+    return 0;
 }
