@@ -23,12 +23,12 @@ void binary_search() {
 
 int main()
 {
-	ios_base::sync_with_stdio(0), cin.tie(0);
+    ios_base::sync_with_stdio(0), cin.tie(0);
     cin>>n;
     srand(time(NULL));
     k=rand()%n;
     cout<<k<<'\n';
     binary_search();
     cout<<l<<' '<<r<<'\n';
-	return 0;
+    return 0;
 }
