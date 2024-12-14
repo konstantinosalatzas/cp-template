@@ -2,7 +2,7 @@
 
 My CP C++ template
 
-## Algorithm template links
+## Algorithm templates
 
 * [Binary Search](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/binary_search.cpp)
 
