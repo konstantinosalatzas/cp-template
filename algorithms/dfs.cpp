@@ -29,6 +29,8 @@ int main()
                 adj[v].push_back(u);
             }
         }
+    }
+    for(int v=0; v<n; v++) {
         visited[v]=false;
     }
     for(int v=0; v<n; v++) {
