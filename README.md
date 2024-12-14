@@ -11,3 +11,5 @@ My CP C++ template
 * [BFS](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/bfs.cpp)
 
 * [GCD and LCM](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/gcd.cpp)
+
+* [Sieve of Eratosthenes](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/sieve.cpp)
