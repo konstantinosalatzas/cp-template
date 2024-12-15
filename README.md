@@ -13,3 +13,5 @@ My CP C++ template
 * [GCD and LCM](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/gcd.cpp)
 
 * [Sieve of Eratosthenes](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/sieve.cpp)
+
+* [Binary Exponentiation](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/binpow.cpp)
