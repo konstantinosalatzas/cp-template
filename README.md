@@ -1,6 +1,6 @@
 # Competitive Programming template
 
-My CP C++ template
+My Competitive Programming C++ template
 
 ## Algorithm templates
 
