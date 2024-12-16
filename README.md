@@ -10,8 +10,8 @@ My Competitive Programming C++ template
 
 * [BFS](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/bfs.cpp)
 
+* [Binary Exponentiation](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/binpow.cpp)
+
 * [GCD and LCM](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/gcd.cpp)
 
 * [Sieve of Eratosthenes](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/sieve.cpp)
-
-* [Binary Exponentiation](https://github.com/konstantinosalatzas/cp-template/blob/main/algorithms/binpow.cpp)
